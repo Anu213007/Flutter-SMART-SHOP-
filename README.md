@@ -95,11 +95,7 @@ flutter run
 
 Watch the short demo video of the app functionality here:
 
-[▶️ Click to watch the video](## 📹 Project Demo (Video)
-
-Watch the short demo video of the app functionality here:
-
-[▶️ Click to watch the video on Google Drive](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
+[▶️ Click to watch the video on Google Drive](https://drive.google.com/file/d/1gf0NMEheaX5OZkmdd2I6sD0ARnIAbi-m/view?usp=sharing)
 
 
 
